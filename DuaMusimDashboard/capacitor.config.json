@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "DuaMusimDashboard",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

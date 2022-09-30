@@ -1,0 +1,7 @@
+{
+  "name": "DuaMusimCompro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
